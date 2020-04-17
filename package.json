@@ -143,6 +143,7 @@
     "zq": "brimsec/zq#v0.10.0"
   },
   "optionalDependencies": {
-    "electron-installer-debian": "^3.0.0"
+    "electron-installer-debian": "^3.0.0",
+    "electron-installer-redhat": "^3.0.0"
   }
 }
